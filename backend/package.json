@@ -1,0 +1,12 @@
+{
+  "name": "social-media-to-amazon",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
