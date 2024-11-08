@@ -7,11 +7,29 @@ const Dashboard = () => {
     setInstaUrl(e.target.value);
   };
 
-  const handleButtonClick = () => {
+  const handleButtonClick = async () => {
     if (instaUrl) {
       window.open(instaUrl, '_blank');
+      try {
+        const response = await fetch('http://localhost:3001/insta', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ url: instaUrl }),
+        });
+  
+        if (response.ok) {
+          console.log('URL sent successfully');
+        } else {
+          console.error('Error sending URL');
+        }
+      } catch (error) {
+        console.error('Network error:', error);
+      }
     }
   };
+  
 
   return (
     <div className="d-flex flex-column justify-content-center align-items-center vh-100 bg-dark text-white">
