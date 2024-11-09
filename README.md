@@ -1,8 +1,10 @@
-#  Amazon Product Listing from Social Media Content(Amazon Sambhav Hackathon Theme 1)
+#  Amazon Product Listing from Social Media Content (Amazon Smbhav Summit Hackathon Theme 1)
 
 ## 🚀 Project Overview
 
 This projects aims to revolutionize the product listing process by seamlessly transforming social media content into optimized Amazon product listings. Designed for influencers, small businesses, and creators, it enables effortless listing creation, merging social media influence with e-commerce growth through a robust and secure pipeline.
+
+![frontend](image.png)
 
 ### 🔥 Key Features
 - **Automatic Product Listings**: Transforms social media content into Amazon-ready product listings.
