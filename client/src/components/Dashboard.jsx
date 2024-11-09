@@ -39,7 +39,7 @@ const Dashboard = () => {
           <input
             type="text"
             className="form-control"
-            placeholder="Connect your social handle"
+            placeholder="Connect your account"
             value={instaUrl}
             onChange={handleInputChange}
           />
