@@ -5,10 +5,14 @@
 This projects aims to revolutionize the product listing process by seamlessly transforming social media content into optimized Amazon product listings. Designed for influencers, small businesses, and creators, it enables effortless listing creation, merging social media influence with e-commerce growth through a robust and secure pipeline.
 
 ![frontend](image.png)
+
+_High Level Design_
 ![High-Level-Design](https://github.com/user-attachments/assets/b394d931-e9b2-40c1-8283-68b57468c2f4)
 
+_Solution Architecture_
 ![Soltuion-Architecture](https://github.com/user-attachments/assets/a4d5aedd-03a0-4422-91e3-35810abd5526)
 
+_Methodology-FlowChart_
 ![Methodolgy](https://github.com/user-attachments/assets/bae9db5a-199c-4580-97e0-7e1ec87a823e)
 
 ### 🔥 Key Features
