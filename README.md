@@ -44,6 +44,7 @@ _Methodology-FlowChart_
 | Backend            | Python, Node.js, Express.js   |
 | AI/ML              | Large Language Model          |
 | Cloud Services     | AWS S3                        |
+| Database           | MongoDB Atlas                 |
 | Containerization   | Docker                        |
 | Version Control    | GitHub                        |
 
